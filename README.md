@@ -12,9 +12,9 @@ HooBank is a responsive React JS website featuring a modern design for a fiction
 
 ## Live Preview
 
-Explore the live preview: [HooBank Live Preview](https://your-netlify-link.com)
+Explore the live preview: [HooBank Live Preview](https://hoobank-wm.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge-id/deploy-status)](https://app.netlify.com/sites/your-netlify-site-id)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7f7e4154-34db-46ff-b966-1e7843f93258/deploy-status)](https://app.netlify.com/sites/hoobank-wm/deploys)
 
 ## Project Resources
 
